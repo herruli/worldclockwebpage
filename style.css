@@ -22,7 +22,8 @@ vertical-align: top;
 
 
  #left, #middle, #right{
-    margin-top: 7%;}
+    margin-top: 15%;
+    margin-left: 1.5%;}
 #left {width: 25%; 
     color: blue;
     text-align: center;}

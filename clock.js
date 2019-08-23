@@ -272,7 +272,7 @@ function worldClock(zone, region){
         day -= -1
         }
         if (hr < 10){
-        hr = " " + hr
+        hr = "0" + hr
         }
         if(day > monthDays[month]){
         day = 1
